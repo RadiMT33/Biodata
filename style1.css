@@ -1,0 +1,10 @@
+.container{
+  background-color: cyan;
+  width: 700px;
+  height: 350px;
+  border: 1px solid black;
+  padding: 10px;
+  margin-top: 50%;
+  margin-left: 150px;
+  padding-top: 10px;
+}
